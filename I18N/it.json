@@ -1,0 +1,89 @@
+﻿{
+    "progress": {
+        "p1": "Veicolo",
+        "p2": "Attrezzature per magazzino",
+        "p3": "I dati",
+        "p4": "Valutazione gratuita"
+    },
+    "global": {
+        "sh": "Mostra/Nascondi",
+        "st": "Iniziare a digitare..."
+    },
+    "sv": {
+        "title": "Seleziona il tuo veicolo",
+        "toptxt": "Si prega di selezionare età e chilometraggio del veicolo...",
+        "mamo": "Marca e modello:",
+        "mamop": "Iniziare a digitare la descrizione del modello del tuo veicolo...",
+        "yyyy": "Anno:",
+        "mm": "Mese:",
+        "mil": "Chilometraggio:",
+        "milp": "Tipo chilometraggio qui...",
+        "bottomtxt": "Selezionare la marca e il modello della vostra auto per trovare veicoli corrispondenti nella sezione successiva."
+    },
+    "svl": {
+        "title": "Elenco dei veicoli",
+        "toptxt": "Si prega di utilizzare i filtri per restringere l'elenco o selezionare il vostro veicolo.",
+        "toptxtnofilters": "Si prega di selezionare il veicolo.",
+        "desc": "Descrizione",
+        "power": "Potenza kW (PS)",
+        "displ": "Ccm di cilindrata",
+        "body": "Corpo",
+        "transm": "Trasmissione",
+        "imp": "Periodo d'importazione",
+        "imptd": "oggi",
+        "ccm": "CCM",
+        "doors": "porte",
+        "fuel": "Carburante",
+        "found": "veicoli sono stati trovati con i tuoi",
+        "displayed": "veicoli vengono visualizzate le corrispondenti ai filtri",
+        "noresults": "Non ci erano nessun risultato trovato con i tuoi - Clicca qui per reimpostare i filtri.",
+        "error": "Attenzione",
+        "errortxt": "Si prega di selezionare una marca e modello e uno dei veicoli nell'elenco per procedere."
+    },
+    "cv": {
+        "title": "Configura il tuo veicolo",
+        "toptxt": "Selezionare le opzioni che ha montato il vostro veicolo:",
+        "bottomtxt": "Una volta completato, si prega di premere il pulsante avanti o selezionare il passo successivo nella parte superiore dello schermo.",
+        "eqcl1": "Livello di entrata",
+        "eqcl2": "Normale",
+        "eqcl3": "Costoso",
+        "eqcl4": "High-end"
+    },
+    "cvi": {
+        "title": "Per favore identificatevi",
+        "toptxt": "Per favore identificatevi con una delle sotto opzioni di login:",
+        "facebook": "Accedi con Facebook",
+        "google": "Accedi con Google",
+        "twitter": "Accedi con Twitter",
+        "bottomtxt": "Cliccate su una delle opzioni di login e seguire il processo."
+    },
+    "svp": {
+        "title": "I dati",
+        "toptxt": "Si prega di compilare i suoi dati personali:",
+        "fullname": "Nome completo:",
+        "adr1": "Riga Indirizzo 1:",
+        "adr2": "Riga indirizzo 2:",
+        "zip": "CAP:",
+        "city": "Città / paese:",
+        "country": "Paese:",
+        "email": "Indirizzo email:",
+        "mob": "Telefono cellulare:",
+        "mobv": "Verifica mobile:",
+        "midtxt": "Per accelerare il processo, vi raccomandiamo di utilizzando le opzioni di login sopra come Google, Facebook, Twitter, ecc.",
+        "sellprice": "Prezzo di vendita:",
+        "sellpriceinfo": "Si prega di indicare il prezzo per il quale si comprerebbe il veicolo che avete specificato. Se possiamo organizzare questo veicolo per voi al prezzo dato e non si desidera più comprare il veicolo, noi possiamo pagare una tassa di servizio di 10€ a te per il nostro servizio.",
+        "tac": "Termini e condizioni:",
+        "accept": "Accetto:",
+        "li1": "Che l'azienda può condividere i miei dati personali ai fini di questo veicolo particolare con terze parti",
+        "li2": "Che comprerò il veicolo al prezzo dato",
+        "li3": "I termini delle condizioni di questo servizio",
+        "captcha": "Verificare che siete una persona:",
+        "captchatxt": "Si prega di confermare che non sei un robot verificando questo captcha.",
+        "bottomtxt": "Si prega di compilare i tuoi dati..."
+    },
+    "sr": {
+        "title": "Risultato",
+        "toptxt": "Trova qui il risultato:",
+        "bottomtxt": "più dettagli..."
+    }
+}

@@ -1,0 +1,109 @@
+﻿{
+    "progress": {
+        "p1": "Vehicle",
+        "p2": "Equipments",
+        "p3": "Your Data",
+        "p4": "Free Valuation"
+    },
+	"global" : {
+		"sh" : "show/hide",
+		"st" : "Start to type...",
+		"first" : "First",
+		"last" : "Last",
+		"next" : "Next",
+		"prev" : "Previous"
+	},
+	"sv" : {
+		"title" : "Select your vehicle",
+		"toptxt" : "Please select age and mileage of your vehicle...",
+		"mamo" : "Make and Model:",
+		"mamop" : "Start to type the model description of your vehicle...",
+		"yyyy" : "Year:",
+		"mm" : "Month:",
+		"mil" : "Mileage:",
+		"milp" : "Type mileage here...",
+		"bottomtxt" : "Select the Make and Model of your car to find matching vehicles in the next section."
+		
+	},
+	"svl" : {
+		"title" : "List of Vehicles",
+		"toptxt" : "Please use the filters to narrow down the list or select your vehicle.",
+		"toptxtnofilters" : "Please select your vehicle.",
+		"desc" : "Description",
+		"power" : "Power kW (PS)",
+		"displ" : "Displacement ccm",
+		"body" : "Body",
+		"transm" : "Transmission",
+		"imp" : "Import period",
+		"imptd" : "today",
+		"ccm" : "ccm",
+		"doors" : "doors",
+		"fuel" : "Fuel",
+		"found" : "vehicles were found with your criteria",
+		"displayed" : "vehicles are displayed matching the filters",
+		"noresults" : "There were no results found with your criteria - click here to reset the filters.",
+		"error" : "Attention",
+		"errortxt" : "Please select a make and model and one of the vehicles in the list to proceed."
+	},
+	"cv" : {
+		"title" : "Configure your vehicle",
+		"toptxt" : "Please select the options your vehicle has fitted:",
+		"bottomtxt" : "When completed, please press the next button or select the next step at the top of the screen.",
+        "opts1": "Air conditioning",
+        "opts2": "Leather interior",
+        "opts3": "Navigation system",
+        "opts4": "Automatic transmission",
+        "opts5": "Sound system/telephone",
+        "opts6": "Park distance control",
+        "opts7": "Cruise control / distance rule automatic",
+        "opts8": "Sunroof",
+        "opts9": "Light alloy rims",
+        "opts99": "Other equipment",
+		"eqcl1" : "Entry Level",
+		"eqcl2" : "Normal",
+		"eqcl3" : "Expensive",
+		"eqcl4" : "High-End"	
+	},
+	"cvi" : {
+		"title" : "Please identify yourself",
+		"toptxt" : "Please identify yourself with one of the below login options:",
+		"facebook" : "Sign in with Facebook",
+		"google" : "Sign in with Google",
+		"twitter" : "Sign in with Twitter",
+		"bottomtxt" : "Please click on one of the login options and follow the process."
+	},
+	"svp" : {
+		"title" : "Your data",
+		"toptxt" : "Please fill in your personal information:",
+		"fullname" : "Full Name:",
+		"adr1" : "Address Line 1:",
+		"adr2" : "Address Line 2:",
+		"zip" : "Zip code:",
+		"city" : "City / Town:",
+		"country" : "Country:",
+		"email" : "Email Address:",
+		"emailv" : "Email Verification:",
+		"emailvtxt" : "Please enter here the code you have received by email...",
+		"mob" : "Mobile Phone:",
+		"mobv" : "Mobile Verification:",
+		"mobvtxt" : "Please enter here the code you have received by SMS...",
+		"moberr" : "Mobile phone number not valid...",
+		"midtxt" : "For speeding up the process, we recommend you to using the above login options like Facebook, Google, Twitter, etc.",
+		"sellprice" : "Selling Price:",
+		"sellpriceinfo" : "Please specify the price for which you would buy the vehicle you have specified. If we can organise this vehicle for you for the price given and you do not want to buy the vehicle anymore, we can charge a service fee of 10€ to you for our service.",
+		"tac" : "Terms and Conditions:",
+		"accept" : "I accept:",
+		"li1" : "That the company can share my personal details for the purpose of this particular vehicle with 3rd parties",
+		"li2" : "That I will buy the vehicle for the price given",
+		"li3" : "The Terms of Conditions of this service",
+		"captcha" : "Verify that you are a person:",
+		"captchatxt" : "Please confirm that you are not a robot by verifying this captcha.",
+		"bottomtxt" : "Please fill in your personal details..."
+	},
+	"sr" : {
+		"title" : "Result",
+		"toptxt" : "Please find here your result:",
+		"bottomtxt" : "more details..."
+	}
+
+}

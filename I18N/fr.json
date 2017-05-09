@@ -1,0 +1,89 @@
+﻿{
+    "progress": {
+        "p1": "Véhicule",
+        "p2": "Equipements",
+        "p3": "Vos données",
+        "p4": "Estimation gratuite"
+    },
+    "global": {
+        "sh": "afficher/masquer",
+        "st": "Commencez à taper..."
+    },
+    "sv": {
+        "title": "Sélectionnez votre véhicule",
+        "toptxt": "S'il vous plaît sélectionnez âge et le kilométrage de votre véhicule...",
+        "mamo": "Marque / modèle :",
+        "mamop": "Commencez à taper la description du modèle de votre véhicule...",
+        "yyyy": "Année :",
+        "mm": "Mois :",
+        "mil": "Kilométrage :",
+        "milp": "Kilométrage type ici...",
+        "bottomtxt": "Sélectionnez la marque et le modèle de votre voiture pour trouver des véhicules correspondants à la section suivante."
+    },
+    "svl": {
+        "title": "Liste des véhicules",
+        "toptxt": "Veuillez utiliser les filtres pour affiner la liste ou sélectionnez votre véhicule.",
+        "toptxtnofilters": "Veuillez sélectionner votre véhicule.",
+        "desc": "Description",
+        "power": "Puissance kW (PS)",
+        "displ": "Cylindrée",
+        "body": "Corps",
+        "transm": "Transmission",
+        "imp": "Période d'importation",
+        "imptd": "aujourd'hui",
+        "ccm": "CCM",
+        "doors": "portes",
+        "fuel": "Carburant",
+        "found": "véhicules ont été trouvés avec vos critères",
+        "displayed": "véhicules sont affichés correspondant aux filtres",
+        "noresults": "Il n'y a aucun résultat trouvé avec vos critères - cliquez ici pour réinitialiser les filtres.",
+        "error": "Attention",
+        "errortxt": "Dans la liste de procéder, veuillez sélectionner une marque et le modèle et l'un des véhicules."
+    },
+    "cv": {
+        "title": "Configurer votre véhicule",
+        "toptxt": "Veuillez sélectionner les options de que votre véhicule est équipé :",
+        "bottomtxt": "Une fois rempli, veuillez appuyer sur le bouton suivant ou sélectionnez l'étape suivante en haut de l'écran.",
+        "eqcl1": "Niveau d'entrée",
+        "eqcl2": "Normal",
+        "eqcl3": "Cher",
+        "eqcl4": "Haut de gamme"
+    },
+    "cvi": {
+        "title": "Veuillez vous identifier",
+        "toptxt": "Veuillez vous identifier avec l'un des options de connexion ci-dessous :",
+        "facebook": "Connectez-vous avec Facebook",
+        "google": "Connectez-vous à l'aide de Google",
+        "twitter": "Connectez-vous à l'aide de Twitter",
+        "bottomtxt": "S'il vous plaît, cliquez sur l'une des options de connexion et suivre le processus."
+    },
+    "svp": {
+        "title": "Vos données",
+        "toptxt": "Veuillez remplir vos informations personnelles :",
+        "fullname": "Nom complet :",
+        "adr1": "Adresse ligne 1 :",
+        "adr2": "Adresse ligne 2 :",
+        "zip": "Code postal:",
+        "city": "City / ville :",
+        "country": "Pays :",
+        "email": "Adresse e-mail :",
+        "mob": "Téléphone mobile :",
+        "mobv": "Verification mobile :",
+        "midtxt": "Pour accélérer le processus, nous vous recommandons d'utiliser les options de connexion ci-dessus comme Facebook, Google, Twitter, etc..",
+        "sellprice": "Prix de vente :",
+        "sellpriceinfo": "Veuillez préciser le prix pour lequel vous achèteriez le véhicule que vous avez spécifié. Si nous pouvons organiser ce véhicule pour vous pour le prix donné et que vous ne voulez pas acheter le véhicule plus, nous pouvons exiger un tarif de service de 10€ vous pour notre service.",
+        "tac": "Termes et Conditions :",
+        "accept": "J'accepte :",
+        "li1": "Que la société peut partager mes données personnelles dans le but de ce véhicule particulier avec des tiers",
+        "li2": "Que je vais acheter le véhicule pour le prix donné",
+        "li3": "Les modalités des Conditions de ce service",
+        "captcha": "Vérifiez que vous êtes une personne :",
+        "captchatxt": "Veuillez confirmer que vous n'êtes pas un robot en vérifiant ce captcha.",
+        "bottomtxt": "Remplissez vos coordonnées personnelles..."
+    },
+    "sr": {
+        "title": "Résultat",
+        "toptxt": "Vous trouverez ici votre résultat :",
+        "bottomtxt": "plus de détails..."
+    }
+}

@@ -1,0 +1,288 @@
+/* standard styles for the content area */
+#content
+{
+ height: 100%; 
+ font-size: 18px;
+ margin: .556em 0;
+}
+
+/* styles of the wizard with the progress bar */
+.progress .bar{float:left;width:0;height:100%;font-size:.75em;color:#fff;text-align:center;text-shadow:0 -.063em 0 rgba(0,0,0,0.25);background-color:#0e90d2;background-image:-moz-linear-gradient(top,#149bdf,#0480be);background-image:-webkit-gradient(linear,0 0,0 100%,from(#149bdf),to(#0480be));background-image:-webkit-linear-gradient(top,#149bdf,#0480be);background-image:-o-linear-gradient(top,#149bdf,#0480be);background-image:linear-gradient(to bottom,#149bdf,#0480be);background-repeat:repeat-x;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff149bdf',endColorstr='#ff0480be',GradientType=0);-webkit-box-shadow:inset 0 -.063em 0 rgba(0,0,0,0.15);-moz-box-shadow:inset 0 -.063em 0 rgba(0,0,0,0.15);box-shadow:inset 0 -.063em 0 rgba(0,0,0,0.15);-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;-webkit-transition:width .6s ease;-moz-transition:width .6s ease;-o-transition:width .6s ease;transition:width .6s ease}
+.progress.active .bar{
+ -webkit-animation:progress-bar-stripes 2s linear infinite;-moz-animation:progress-bar-stripes 2s linear infinite;-ms-animation:progress-bar-stripes 2s linear infinite;-o-animation:progress-bar-stripes 2s linear infinite;animation:progress-bar-stripes 2s linear infinite
+}
+.progress-striped .bar{
+ background-color:#149bdf;background-image:-webkit-gradient(linear,0 100%,100% 0,color-stop(0.25,rgba(255,255,255,0.15)),color-stop(0.25,transparent),color-stop(0.5,transparent),color-stop(0.5,rgba(255,255,255,0.15)),color-stop(0.75,rgba(255,255,255,0.15)),color-stop(0.75,transparent),to(transparent));background-image:-webkit-linear-gradient(45deg,rgba(255,255,255,0.15) 25%,transparent 25%,transparent 50%,rgba(255,255,255,0.15) 50%,rgba(255,255,255,0.15) 75%,transparent 75%,transparent);background-image:-moz-linear-gradient(45deg,rgba(255,255,255,0.15) 25%,transparent 25%,transparent 50%,rgba(255,255,255,0.15) 50%,rgba(255,255,255,0.15) 75%,transparent 75%,transparent);background-image:-o-linear-gradient(45deg,rgba(255,255,255,0.15) 25%,transparent 25%,transparent 50%,rgba(255,255,255,0.15) 50%,rgba(255,255,255,0.15) 75%,transparent 75%,transparent);background-image:linear-gradient(45deg,rgba(255,255,255,0.15) 25%,transparent 25%,transparent 50%,rgba(255,255,255,0.15) 50%,rgba(255,255,255,0.15) 75%,transparent 75%,transparent);-webkit-background-size:40px 40px;-moz-background-size:40px 40px;-o-background-size:40px 40px;background-size:40px 40px
+}
+
+/* for making the progress section fix to the top of the page...
+.navbar {
+ margin-left: 1em;
+ margin-right: 1em;
+ z-index: 1000;
+ position: fixed;
+ background: white;
+ padding-right: 8em;
+ width: 100%;
+}
+
+#bar {
+ margin-top: 3em;
+ position: fixed;
+ margin-left: 1em;
+ margin-right: 1em;
+ z-index: 1000;
+}
+
+.tab-content {
+ padding-top: 5em;
+}
+
+.container {
+ 
+}
+*/
+ 
+.navbar {
+ margin-bottom: .313em !important;
+ min-height: 0 !important;
+}
+.nav>li {
+ width: 21.5%;
+ text-align: center;
+}
+.nav>li>a {
+ text-overflow: ellipsis;
+ white-space: nowrap;
+ overflow: hidden !important;
+ padding: .688em;
+}
+
+.navbar .container {
+  margin: 0;
+  padding: 0;
+}
+
+.navbar .glyphicon {
+  margin: .4em .2em 0 0;
+  font-size: 1.4em;
+}
+
+/* panel styles */
+.panel-title {
+ font-size: 1em;
+}
+
+/* all lable's and p's need to have proper space */
+label {
+ margin-bottom: .313em;
+}
+.col-sm-3, .col-sm-4, .col-sm-6, .col-sm-8, .col-sm-12,
+.col-md-3, .col-md-5, .col-md-7, .col-md-9{
+ margin-top: .625em;
+}
+#svp .col-sm-3, #svp .col-sm-4, #svp .col-sm-6, #svp .col-sm-8, #svp .col-sm-12,
+#svp .col-md-3, #svp .col-md-5, #svp .col-md-7, #svp .col-md-9{
+ margin-top: .3em;
+}
+#opts .col-sm-3, #opts .col-sm-4, #opts .col-sm-6, #opts .col-sm-8, #opts .col-sm-12,
+#opts .col-md-3, #opts .col-md-5, #opts .col-md-7, #opts .col-md-9{
+ margin-top: .3em;
+}
+p {
+ margin: .625em 0;
+}
+
+
+/* selects */
+.select2-selection--single {
+ height: 2.188em !important;
+}
+.select2-selection--single .select2-selection__rendered {
+ height:  2em !important;
+ line-height:  2em !important;
+}
+.select2-selection__arrow {
+ height:  2em !important;
+ line-height:  2em !important;
+}
+.select2-search__field {
+ width: 100% !important;
+}
+.normal-input {
+ height: 2.188em !important;
+}
+.form-control {
+ font-size: 1em;
+}
+
+/* table */
+.filterable table {
+ font-size: .75em;
+ cursor: pointer;
+}
+.filterable table tr {
+ cursor: pointer;
+}
+.filterable .panel-heading .pull-right {
+    margin-top: -1.25em;
+}
+.filterable .filters input[disabled] {
+    background-color: transparent;
+    border: none;
+    cursor: auto;
+    box-shadow: none;
+    padding: 0;
+    height: auto;
+}
+.filterable .filters input[disabled]::-webkit-input-placeholder {
+    color: #333;
+}
+.filterable .filters input[disabled]::-moz-placeholder {
+    color: #333;
+}
+.filterable .filters input[disabled]:-ms-input-placeholder {
+    color: #333;
+}
+.filterable .filters th {
+ vertical-align: top;
+}
+.filterable tbody:hover td[rowspan], tbody:hover tr td {
+ background: rgb(221, 221, 221);
+}
+
+.filterable .vehicleSelected td[rowspan], .vehicleSelected tr td {
+ background: rgb(200, 200, 200);
+}
+.filtergrp {
+ width: 100%;
+}
+.searchclear {
+ position: absolute;
+ right: 5px;
+ top: 0;
+ bottom: 0;
+ height: 14px;
+ margin: auto;
+ font-size: 14px;
+ cursor: pointer;
+ color: #ccc;
+}
+.filterable .form-control {
+ padding-right: 1.5em;
+}
+
+/* social button spacing */
+.btn-social {
+ margin-bottom: .625em !important;
+}
+
+#svp input, #svp select {
+ width: 90%;
+}
+
+#svp input[type='checkbox'] {
+ width: 10%;
+}
+
+.form-control-hidden  {
+ visibility: hidden !important;
+ display: none !important;
+}
+
+.alert {
+ display: none;
+}
+
+.error {
+ color: red;
+}
+
+#opts .panel-heading {
+ font-size: .75em;
+}
+
+#opts .panel-heading .checkbox {
+ padding-top: 0;
+}
+
+#opts .panel-heading .checkbox  input{
+ position: relative;
+ margin: 0 5px 0 0;
+ width: 1.5em;
+ height: 1.5em;
+}
+
+.notfixed {
+ padding: 0;
+ margin: 0;
+ text-overflow: ellipsis;
+ white-space: nowrap;
+ overflow: hidden !important;
+}
+
+#svl td, #svl th {
+ vertical-align: middle;
+}
+
+.hideImg {
+ display: none;
+}
+.showImg {
+ display: inline;
+ /* float: left; */
+}
+.vTxt {
+ font-weight: bold;
+ display: table-cell; 
+ padding-left: 3px; 
+ min-width: 60%; 
+ width: 60%;
+ box-sizing: border-box;
+}
+.vTxtNoImg {
+ display: block;
+ width: 100%;
+ vertical-align: middle;
+}
+.vlpt {
+ width: 100%;
+ display: table;
+}
+.vlptNoImg {
+ display: inline-block;
+}
+#opts .panel-title {
+ font-size: 1em;
+ margin-top: 0;
+ margin-bottom: 0;
+ color: inherit;
+}
+#opts .panel-title .checkbox {
+ padding-left: 0;
+}
+#sv .btn-group {
+  width: 100%;
+}
+#sv .btn-default {
+ width: 25%;
+ padding: 0.25em;
+ text-overflow: ellipsis;
+ white-space: nowrap;
+ overflow: hidden !important;
+}
+#opts .row {
+ margin: 0;
+}
+#svp .select2-container {
+ width: 90%;
+}
+#svp .input-group i {
+ width: 15px;
+}
+.err {
+ font-weight: bold;
+}
+#svp .control-label {
+ text-align: left;
+}

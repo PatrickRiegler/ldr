@@ -1,0 +1,99 @@
+﻿{
+    "progress": {
+        "p1": "Fahrzeug",
+        "p2": "Ausrüstungen",
+        "p3": "Ihre Daten",
+        "p4": "Kostenlose Bewertung"
+    },
+    "global": {
+        "sh": "ein-/ausblenden",
+        "st": "Start eingeben..."
+    },
+    "sv": {
+        "title": "Wählen Sie Ihr Fahrzeug",
+        "toptxt": "Bitte wählen Sie Alter und Kilometerstand Ihres Fahrzeugs...",
+        "mamo": "Marke und Modell:",
+        "mamop": "Start der Modell Beschreibung Ihres Fahrzeugs...",
+        "yyyy": "Jahr:",
+        "mm": "Monat:",
+        "mil": "Kilometerstand:",
+        "milp": "Geben Sie hier Kilometerstand...",
+        "bottomtxt": "Wählen Sie das Fabrikat und Modell Ihres Autos passenden Fahrzeuge im nächsten Abschnitt finden."
+    },
+    "svl": {
+        "title": "Liste der Fahrzeuge",
+        "toptxt": "Bitte benutzen Sie die Filter eingrenzen der Liste oder wählen Ihr Fahrzeug.",
+        "toptxtnofilters": "Bitte wählen Sie Ihr Fahrzeug.",
+        "desc": "Beschreibung",
+        "power": "Leistung kW (PS)",
+        "displ": "Hubraum ccm",
+        "body": "Körper",
+        "transm": "Übertragung",
+        "imp": "Import-Zeit",
+        "imptd": "heute",
+        "ccm": "CCM",
+        "doors": "Türen",
+        "fuel": "Kraftstoff",
+        "found": "Fahrzeuge wurden mit Ihren Kriterien gefunden.",
+        "displayed": "Fahrzeuge werden angezeigt, der Arbeitszuweisung",
+        "noresults": "Es gab keine Ergebnisse mit Ihren Kriterien gefunden - Klicken Sie hier, um die Filter zurückzusetzen.",
+        "error": "Aufmerksamkeit",
+        "errortxt": "Bitte wählen Sie eine Marke und Modell und eines der Fahrzeuge in der Liste fortgesetzt."
+    },
+    "cv": {
+        "title": "Konfigurieren Sie Ihr Fahrzeug",
+        "toptxt": "Bitte wählen Sie die Optionen, die Ihr Fahrzeug ausgestattet hat:",
+        "bottomtxt": "Wenn abgeschlossen, klicken Sie auf den Schaltfläche \"weiter\" oder wählen Sie den nächsten Schritt am oberen Rand des Bildschirms.",
+		"opts1" : "Klimaanlage",
+		"opts2" : "Lederausstattung",
+		"opts3" : "Navigationssystem",
+		"opts4" : "Automatisches Getriebe",
+		"opts5" : "Soundsystem/Telefon",
+		"opts6" : "Park-Distance Control",
+		"opts7" : "Tempomat / Abstandregelautomat",
+		"opts8" : "Schiebedach",
+		"opts9" : "Leichtmetallfelgen",
+		"opts99" : "Andere Ausstattungen",
+        "eqcl1": "Berufseinsteiger",
+        "eqcl2": "Normal",
+        "eqcl3": "Teuer",
+        "eqcl4": "High-End-"
+    },
+    "cvi": {
+        "title": "Bitte identifizieren Sie sich",
+        "toptxt": "Bitte identifizieren Sie sich mit einem der folgenden Anmelde-Optionen:",
+        "facebook": "Melden Sie sich mit Facebook",
+        "google": "Melden Sie sich mit Google",
+        "twitter": "Melden Sie sich mit Twitter",
+        "bottomtxt": "Bitte klicken Sie auf eines der Anmelde-Optionen und folgen Sie den Prozess."
+    },
+    "svp": {
+        "title": "Ihre Daten",
+        "toptxt": "Bitte füllen Sie Ihre persönlichen Daten:",
+        "fullname": "Vollständiger Name:",
+        "adr1": "Adresszeile 1:",
+        "adr2": "Adresse Linie 2:",
+        "zip": "PLZ:",
+        "city": "Stadt / Ort:",
+        "country": "Land:",
+        "email": "E-Mail-Adresse:",
+        "mob": "Handy:",
+        "mobv": "Mobile Überprüfung:",
+        "midtxt": "Für den Prozess beschleunigen, empfehlen wir Ihnen zur Verwendung der oben genannten Login-Optionen wie Facebook, Google, Twitter, etc..",
+        "sellprice": "Verkaufspreis:",
+        "sellpriceinfo": "Bitte geben Sie den Preis, wofür Sie das Fahrzeug kaufen würde, die, das Sie angegeben haben. Wenn wir dieses Fahrzeug für Sie für den Preis gegeben organisieren, und Sie wollen nicht das Fahrzeug nicht mehr zu kaufen, können wir eine Bearbeitungsgebühr von 10€ an Sie für unseren Service berechnen.",
+        "tac": "Allgemeine Geschäftsbedingungen:",
+        "accept": "Ich akzeptiere:",
+        "li1": "Dass das Unternehmen meine persönlichen Daten für die Zwecke dieses besondere Fahrzeug mit Dritten teilen können",
+        "li2": "Dass ich das Fahrzeug zum angegebenen Preis kaufen",
+        "li3": "Die Bedingungen dieses Services",
+        "captcha": "Überprüfen Sie, ob Sie ein Mensch sind:",
+        "captchatxt": "Bitte bestätigen Sie, dass Sie kein Roboter durch dieses Captcha überprüfen.",
+        "bottomtxt": "Bitte füllen Sie Ihre persönlichen Daten..."
+    },
+    "sr": {
+        "title": "Ergebnis",
+        "toptxt": "Hier finden Sie Ihr Ergebnis:",
+        "bottomtxt": "mehr Details..."
+    }
+}
