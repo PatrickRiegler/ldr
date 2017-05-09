@@ -20,7 +20,7 @@ phases:
   post_build:
     commands:
       - echo "post-build started..."
-#      - command
+      - rm buildspec.yml
 artifacts:
   files:
     - '**/*'
