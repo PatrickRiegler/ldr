@@ -27,6 +27,5 @@ phases:
       - echo "post-build ended..."
 artifacts:
   files:
-    - *
+    - **/*
   discard-paths: yes
-  base-directory: .
