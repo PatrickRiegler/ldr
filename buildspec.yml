@@ -9,22 +9,18 @@ phases:
     commands:
       - echo "Install started..."
 #      - command
-      - echo "Install ended..."
   pre_build:
     commands:
       - echo "Pre-build started..."
 #      - command
-      - echo "Pre-build ended..."
   build:
     commands:
       - echo "build started..."
 #      - command
-      - echo "build ended..."
   post_build:
     commands:
       - echo "post-build started..."
 #      - command
-      - echo "post-build ended..."
 artifacts:
   files:
     - '**/*'
